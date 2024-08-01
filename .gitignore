@@ -1,3 +1,4 @@
 db/
 rag/
 payment.png
+.env
